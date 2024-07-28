@@ -1,0 +1,67 @@
+{
+    "PersonalInformation": {
+        "FullName": "MD. EQUBAL",
+        "DateOfBirth": "02-06-1993",
+        "Gender": "Male",
+        "Address": "I-36a Abul Fazal Enclave Jamia Road OKhla New Delhi 110025 (India)",
+        "PhoneNumber": "+918002723272\n                 +917479595250",
+        "Email": "Mdequbalpbtp@gmail. Com\n                        &\nMdequbal02@gmail.com"
+    },
+    "Education": [
+        {
+            "School": "P.S.B.T & I.T Chandigarh",
+            "Major": "Civil Engineering",
+            "TimePeriod": "2013",
+            "Degree": "Diploma"
+        },
+        {
+            "School": "B.S.E.B Patna",
+            "Major": "English, Math, Science, History, Hindi,  & Urdu",
+            "TimePeriod": "2009",
+            "Degree": "10th Board"
+        }
+    ],
+    "WorkExperience": [
+        {
+            "JobTitle": "Quantity Surveyor & Civil Engineer",
+            "Company": "PEE KAY BUILDTECH. at MITA INDIA PVT LTD IInd Plant, Bhopal Road, Dewas, (MP).",
+            "TimePeriod": "Jul 2015 to Till Date",
+            "ResponsibilitiesAndAchievements": "Supervision of all works in construction\nExecute work as per Dwg.s & Standards both discipline\n(Structural , Architectural)\nSupervision for frame structure form work, steel work and\nconcrete\nFinishingwork (Block work, plaster every kind of flooring\nSite  Architectural  layout  regarding  block  work,  door,\nWindows, floor level, lintel & Stiffeners\nCoordination  with consultant & Projects manager regarding\nwork & inspection\nSupervised the site Labour & Sub Contractor\nDay- to-day site planning and Monitoring.\nRegular meeting with the client and client representatives to\ndiscuss Project progress\nChecking & making of bill related to site contractor & sub\nContractors \nChecking of reinforcement and shuttering where required\naccording to drawing  and with quality\nQuantity Surveying using Project Drawings as per IS Codes\nChecking  &  Making  BBS  as  per  drawing  design  and\nspecifications.\n All types of site execution work in real projects\nSourcing, Enguiries, to site Management of Construction\nMaterial\n man power of material & equipment\n Preparing work schedules daily/weekly progress report\nMaintaining documents and records for work carried out.\nInspect and asses /monitor health and & safety on side"
+        },
+        {
+            "JobTitle": "Junior Engineer in Civil",
+            "Company": "BPTP LTD. at Park Elite Premium, Sec-84, Faridabad.",
+            "TimePeriod": "May 2013 to June 2015",
+            "ResponsibilitiesAndAchievements": ""
+        }
+    ],
+    "Skills": {
+        "TechnicalSkills": [
+            "Computer for planning and billing",
+            "E-mail",
+            "MS.Office",
+            "Excel",
+            "Internet Surfing",
+            "AUTOCAD"
+        ],
+        "SoftSkills": [
+            "Fast learner",
+            "Adopt well to changes and pressures in workplace",
+            "Good written communication and presentation skills",
+            "Committed  to deadlines and schedules",
+            "Honest, Sincere and a Hard Worker with a high level of Integrity",
+            "Profession with Perfection"
+        ]
+    },
+    "CertificationsAndLicenses": [],
+    "Languages": [
+        {
+            "Language": "English",
+            "ProficiencyLevel": ""
+        },
+        {
+            "Language": "Hindi",
+            "ProficiencyLevel": ""
+        }
+    ]
+}

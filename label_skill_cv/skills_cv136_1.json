@@ -1,0 +1,100 @@
+{
+    "PersonalInformation": {
+        "FullName": "MOHAMMAD AFLAH J",
+        "DateOfBirth": "1st June1989",
+        "Gender": "",
+        "Address": "",
+        "PhoneNumber": "+971528892603",
+        "Email": "mohd.aflah3@gmail.com"
+    },
+    "Education": [
+        {
+            "School": "PET, Anna University",
+            "Major": "Mechanical Engineering",
+            "TimePeriod": "2012",
+            "Degree": "B.E."
+        },
+        {
+            "School": "Sabarigiri HSS",
+            "Major": "",
+            "TimePeriod": "2006",
+            "Degree": "12th"
+        }
+    ],
+    "WorkExperience": [
+        {
+            "JobTitle": "Senior Technical Support Engineer",
+            "Company": "Synergy Vector Electromechanical Works L.L.C",
+            "TimePeriod": "February 2016- December 2017",
+            "ResponsibilitiesAndAchievements": "© Performing activities such as regulating projects using engineering principles & techniques, liaising with Consultant, Client & Sub-contractors, arranging manpower, Safety features ,material, tools & machinery as per project requirement, and so on\nProvide direction and technical training to teams in design, development and system integration and served as a technical mentor\nScheduled projects and managed resources\nKeeping a track record of Material submittals and fulfilling site/stock requisition\nNegotiating with the suppliers, administering drafting and engineering design staff and rendering technical support to other staff as necessary\nPerforming Site work inspections, Material inspections and get it approved by consultant.\nImplementing and following all required safety measures in work site.\nInteracting & coordinating with site staff to complete the project as per target program & in budgeted cost to ensure smooth running of projects\nMade presentations on project status, presented monthly and annual reports to senior management\nDirecting material labor output and utilization of site resources, assuring safety & quality as per the company standards\nPlanning, estimating, tracking & implementing project plans within budgets and deadlines\nManaging process of development from designing, validation of design, trials production to design output\nMonitoring product quality & impact of design modifications on product features while emphasizing on cost reduction during detailed engineering\nUnderstanding client requirements and recommending design modifications based on client requirements and implementing the same\n\nHighlights:\n© Hands-on in Hot Water Solution Installation & Design (Thermosiphon, Forced Circulation, Calorifiers, Boilers, Heat Pumps\n© Hands -on in Equipment selection of Hot water systems ( Fully drain back systems, Thermo siphon systems, Solar with Boiler back up ,solar with heat pump back up, solar with electric element backup)\nExperienced in civil & electrical work as well as in HVAC , Water Supply, Solar, Fire Fighting and so on\nExpertise in Solar from Design, Installation, Testing & Commissioning, Operation and Maintenance activities\nExposure in preparing process, layout & Shop drawings, Material Submittals, specifications, decision of controls, selection of hydraulic components by managing a team size\nAchieved cost reduction and material reduction in Previous projects\nEnsured standardization of system and module\n\nKey Projects:\nDamac- Akoya Oxygen (1800 Villas) Dubai, UAE\nFujairah National Construction- (G+4+R) Dubai, UAE\nAl Shirawi Electrical and Mechanical- (G+4+R) Dubai, UAE\nTiger Construction- (G+4+R) Dubai, UAE\nMediclinic Hospitals- Dubai, UAE\nFIFA Medical Centre of Excellence, Dubai, UAE"
+        },
+        {
+            "JobTitle": "Technical Coordinator",
+            "Company": "DULSCO L.L.C",
+            "TimePeriod": "April 2014 - January 2016",
+            "ResponsibilitiesAndAchievements": "Reviewed Shop Drawings of MEP Systems, recommended solutions for improvement, liaised with commissioning team and contractor to solve the installation, operational and design problems\nSupervised MEP Systems with building automation systems and troubleshoot operational problems\nUnderstood expectation of the client before deployment and conducted predeployment site inspection and submitted necessary reports\nPrepared & maintained detailed and accurate project records including data, documentation and progress reports\nFormulated & presented system details and balancing reports to consultant for final witness & approval\nHighlights:\n© Experienced in MEP systems by working on different projects in UAE\n© Familiar with resource management such as materials, tools, equipments and manpower\n© Familiar in briefing and coordinating with CNC and lathe technicians to ensure best output\n© Familiar with safety features implemented in different site locations and got several safety trainings\n\nKey Projects:\nHalliburton, Dubai, UAE\nLegnano Techno Electric, Dubai, UAE\nNestle, Dubai, UAE\nAlumco, Dubai, UAE\nAggreko, Dubai, UAE\nConcordia, Dubai, UAE\nEdrafor, Dubai, UAE\nWorld Trade Center, Dubai, UAE\nAl Shirawi Facilities Management, Dubai, UAE\nAujan Industries, UAE"
+        },
+        {
+            "JobTitle": "Junior Mechanical Engineer",
+            "Company": "Kerala Automobiles Ltd",
+            "TimePeriod": "November' 2012- March’2014",
+            "ResponsibilitiesAndAchievements": "Conducted inspections, supervised and inspected the installation of mechanical systems\nManaged operations relationship with distributed network of suppliers\nPreparing reports for submitting with higher authorities\nMaintained mechanical systems of vehicles on a regular basis\nInvestigated mechanical failures or unexpected maintenance problems"
+        }
+    ],
+    "Skills": {
+        "TechnicalSkills": [
+            "Design & Site Supervision",
+            "MEP Coordination",
+            "Technical support & Application",
+            "Solar Design & Installation",
+            "HVAC, HSE & Fire Fighting",
+            "Testing & Commissioning",
+            "Safety Measures",
+            "Quality Assurance & Quality Control",
+            "AutoCAD",
+            "Solid Works",
+            "MS Office",
+            "PRO-E",
+            "Excel",
+            "MEP",
+            "ERP",
+            "Technical internal Applications"
+        ],
+        "SoftSkills": [
+            "Team Building & Leadership",
+            "BF skits",
+            "Communicator",
+            "Innovator Thinker",
+            "Team Player & Fast Learner"
+        ]
+    },
+    "CertificationsAndLicenses": [
+        {
+            "CertificateOrLicense": "Valid UAE Driving License",
+            "AwardingOrganization": "",
+            "DateReceived": ""
+        }
+    ],
+    "Languages": [
+        {
+            "Language": "English",
+            "ProficiencyLevel": ""
+        },
+        {
+            "Language": "Arabic",
+            "ProficiencyLevel": ""
+        },
+        {
+            "Language": "Hindi",
+            "ProficiencyLevel": ""
+        },
+        {
+            "Language": "Malayalam",
+            "ProficiencyLevel": ""
+        },
+        {
+            "Language": "Tamil",
+            "ProficiencyLevel": ""
+        }
+    ]
+}

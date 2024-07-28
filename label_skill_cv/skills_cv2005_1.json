@@ -1,0 +1,95 @@
+{
+    "PersonalInformation": {
+        "FullName": "Diwakar Kumar Pal",
+        "DateOfBirth": "15-06-1994",
+        "Gender": "",
+        "Address": "Kalepadle, Hadapsar\nPune (Maharashtra) 411039",
+        "PhoneNumber": "7744071689",
+        "Email": "pal.diwakar94@gmail.com"
+    },
+    "Education": [
+        {
+            "School": "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
+            "Major": "Mechanical Engineering",
+            "TimePeriod": "2011-2015",
+            "Degree": "Bachelor of Engineering"
+        },
+        {
+            "School": "Bihar School Examination Board",
+            "Major": "Science",
+            "TimePeriod": "2009-2011",
+            "Degree": "Higher Secondary"
+        },
+        {
+            "School": "Bihar School Examination Board",
+            "Major": "",
+            "TimePeriod": "2009",
+            "Degree": "High School"
+        }
+    ],
+    "WorkExperience": [
+        {
+            "JobTitle": "Design Engineer",
+            "Company": "EagleBurgmann India Pvt Ltd",
+            "TimePeriod": "October 26, 2017 - Present",
+            "ResponsibilitiesAndAchievements": "Working on Solidedge ST8 &  TeamCenter\nWorking for Germany only\nPrepare design of  different type of mechanical seal (Cartex, Apitex, Metal bellow, H75, SH) for Pump\nGood knowledge of API Plan\nPrepare detailed and top assembly drawing of mechanical seal\nGetting approval from customer \nPrepare BOM as per top assembly"
+        },
+        {
+            "JobTitle": "Mechanical Design Engineer",
+            "Company": "JK Automation & Technology Pvt Ltd",
+            "TimePeriod": "July 11, 2015 - May 10, 2017",
+            "ResponsibilitiesAndAchievements": "Worked on software Solidedge ST5, Autocad \nUnderstanding customer requirements\nArrange the CFT(cross functional team ) and discuss the basic design concept and taking their  suggestion\nPrepare basic conceptual design as per customer requirements\nGetting conceptual design approval from customer for actual design\nPreparing the time estimation work sheet  for the project\nWorking on actual design of the approved project considering all feasibilities\nCreating BOM as per design & customer requirements\nCreating the manufacturing and assembly drawing with proper GD&T details\nPrepare all assembly part drawing and check by authorize person\nFinally released the part and assembly drawings for manufacturing"
+        }
+    ],
+    "Skills": {
+        "TechnicalSkills": [
+            "Solidedge ST8",
+            "TeamCenter",
+            "Documentum Webtop",
+            "SAP",
+            "CATIA V5",
+            "ANSYS 10.1",
+            "AutoCAD 2013"
+        ],
+        "SoftSkills": [
+            "Problem solving",
+            "Hard working",
+            "Team Player",
+            "Good Time manager",
+            "Good ability to analyse information",
+            "Good Communication skills"
+        ]
+    },
+    "CertificationsAndLicenses": [
+        {
+            "CertificateOrLicense": "Certificate in Catia",
+            "AwardingOrganization": "",
+            "DateReceived": ""
+        },
+        {
+            "CertificateOrLicense": "Certificate in Ansys",
+            "AwardingOrganization": "",
+            "DateReceived": ""
+        },
+        {
+            "CertificateOrLicense": "Certificate in RC Aircraft",
+            "AwardingOrganization": "IIT Kanpur Skyfy lab",
+            "DateReceived": ""
+        },
+        {
+            "CertificateOrLicense": "Certificate in IC Engine workshop",
+            "AwardingOrganization": "BOSCH Service",
+            "DateReceived": ""
+        }
+    ],
+    "Languages": [
+        {
+            "Language": "Hindi",
+            "ProficiencyLevel": ""
+        },
+        {
+            "Language": "English",
+            "ProficiencyLevel": ""
+        }
+    ]
+}
