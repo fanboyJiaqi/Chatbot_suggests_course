@@ -4,7 +4,7 @@ import sys
 import fitz  # PyMuPDF
 import json
 import time
-sys.path.append(os.path.abspath('..'))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from backend_demo.process_infor import extract_skill_from_pdf
 from backend_demo.build_learn_path import build_path
